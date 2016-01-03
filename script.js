@@ -4,7 +4,6 @@ var restrict =
 "Badshah"
 ];
 
-debugger;
 var base_selector = "ul li";
 var restrict_str = "";
 
